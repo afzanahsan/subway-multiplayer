@@ -118,7 +118,7 @@ public class BuyADS : MonoBehaviour {
             aminnotinternet.SetBool("open", true);
             yield return new WaitForSeconds(1.5f);
             aminnotinternet.SetBool("open", false);
-            aminnotinternet.Stop();
+            //aminnotinternet.Stop();
             aminnotinternet.enabled = false;
         }
         else {
@@ -212,7 +212,7 @@ public class BuyADS : MonoBehaviour {
             aminnotinternet.SetBool("open", true);
             yield return new WaitForSeconds(1.5f);
             aminnotinternet.SetBool("open", false);
-            aminnotinternet.Stop();
+            //aminnotinternet.Stop();
             aminnotinternet.enabled = false;
         }
         else {
@@ -298,7 +298,7 @@ public class BuyADS : MonoBehaviour {
             amin.SetBool("open", true);
             yield return new WaitForSeconds(1.5f);
             amin.SetBool("open", false);
-            amin.Stop();
+            //amin.Stop();
             amin.enabled = false;
             if (Playermuving.player.transform.position.z<-5)
             {

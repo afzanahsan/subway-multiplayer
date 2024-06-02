@@ -7,7 +7,7 @@ public class Cotdien : MonoBehaviour {
     bool onoff;
 	// Use this for initialization
 	void Start () {
-        Child = gameObject.transform.FindChild("cd").gameObject;
+        Child = gameObject.transform.Find("cd").gameObject;
 
     }
 	void OnOFF()

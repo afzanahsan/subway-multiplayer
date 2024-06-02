@@ -9,8 +9,8 @@ public class howtoplay : MonoBehaviour {
     // Use this for initialization
     void Start () {
         Howtoplay = this;
-        howtostyle = transform.FindChild("stylemuving").gameObject;
-        howtostylerotay = howtostyle.transform.FindChild("img").gameObject;
+        howtostyle = transform.Find("stylemuving").gameObject;
+        howtostylerotay = howtostyle.transform.Find("img").gameObject;
 
     }
 	public IEnumerator ringht()

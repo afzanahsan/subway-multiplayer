@@ -180,9 +180,6 @@ namespace Facebook.Unity
                     return FacebookUnityPlatform.IOS;
                 case RuntimePlatform.WebGLPlayer:
                     return FacebookUnityPlatform.WebGL;
-                case RuntimePlatform.WindowsWebPlayer:
-                case RuntimePlatform.OSXWebPlayer:
-                    return FacebookUnityPlatform.WebPlayer;
                 default:
                     return FacebookUnityPlatform.Unknown;
             }

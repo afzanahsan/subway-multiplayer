@@ -1,36 +1,75 @@
 fileFormatVersion: 2
 guid: de4c72c5fe6aef249b12302ed76909d5
-timeCreated: 1471616101
-licenseType: Pro
 TextureImporter:
-  fileIDToRecycleName:
-    21300000: Train surfer 4_0
-    21300002: Train surfer 4_1
-    21300004: Train surfer 4_2
-    21300006: Train surfer 4_3
-    21300008: Train surfer 4_4
-    21300010: Train surfer 4_5
-    21300012: Train surfer 4_6
-    21300014: Train surfer 4_7
-    21300016: Train surfer 4_8
-    21300018: Train surfer 4_9
-    21300020: Train surfer 4_10
-    21300022: Train surfer 4_11
-    21300024: Train surfer 4_12
-    21300026: Train surfer 4_13
-    21300028: Train surfer 4_14
-    21300030: Train surfer 4_15
-    21300032: Train surfer 4_16
-    21300034: Train surfer 4_17
-    21300036: Train surfer 4_18
-  serializedVersion: 2
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Train surfer 4_0
+  - first:
+      213: 21300002
+    second: Train surfer 4_1
+  - first:
+      213: 21300004
+    second: Train surfer 4_2
+  - first:
+      213: 21300006
+    second: Train surfer 4_3
+  - first:
+      213: 21300008
+    second: Train surfer 4_4
+  - first:
+      213: 21300010
+    second: Train surfer 4_5
+  - first:
+      213: 21300012
+    second: Train surfer 4_6
+  - first:
+      213: 21300014
+    second: Train surfer 4_7
+  - first:
+      213: 21300016
+    second: Train surfer 4_8
+  - first:
+      213: 21300018
+    second: Train surfer 4_9
+  - first:
+      213: 21300020
+    second: Train surfer 4_10
+  - first:
+      213: 21300022
+    second: Train surfer 4_11
+  - first:
+      213: 21300024
+    second: Train surfer 4_12
+  - first:
+      213: 21300026
+    second: Train surfer 4_13
+  - first:
+      213: 21300028
+    second: Train surfer 4_14
+  - first:
+      213: 21300030
+    second: Train surfer 4_15
+  - first:
+      213: 21300032
+    second: Train surfer 4_16
+  - first:
+      213: 21300034
+    second: Train surfer 4_17
+  - first:
+      213: 21300036
+    second: Train surfer 4_18
+  externalObjects: {}
+  serializedVersion: 13
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
+    sRGBTexture: 1
     linearTexture: 0
-    correctGamma: 0
     fadeOut: 0
     borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
     mipMapFadeDistanceStart: 1
     mipMapFadeDistanceEnd: 3
   bumpmap:
@@ -38,43 +77,97 @@ TextureImporter:
     externalNormalMap: 0
     heightScale: 0.25
     normalMapFilter: 0
+    flipGreenChannel: 0
   isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
   grayScaleToAlpha: 0
-  generateCubemap: 0
+  generateCubemap: 6
   cubemapConvolution: 0
-  cubemapConvolutionSteps: 7
-  cubemapConvolutionExponent: 1.5
   seamlessCubemap: 0
   textureFormat: -1
   maxTextureSize: 2048
   textureSettings:
-    filterMode: -1
+    serializedVersion: 2
+    filterMode: 1
     aniso: 16
-    mipBias: -1
-    wrapMode: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
   nPOTScale: 0
   lightmap: 0
-  rGBM: 0
   compressionQuality: 50
-  allowsAlphaSplitting: 0
   spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
   alphaIsTransparency: 1
+  spriteTessellationDetail: -1
   textureType: 8
-  buildTargetSettings:
-  - buildTarget: Android
-    maxTextureSize: 1024
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
     textureFormat: -1
+    textureCompression: 1
     compressionQuality: 50
+    crunchedCompression: 0
     allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
+    serializedVersion: 2
     sprites:
-    - name: Train surfer 4_2
+    - serializedVersion: 2
+      name: Train surfer 4_2
       rect:
         serializedVersion: 2
         x: 114
@@ -84,14 +177,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -43.63353, y: 50.743317}
-        - {x: -49.63353, y: 43.743317}
-        - {x: -49.63353, y: -50.256683}
-        - {x: 51.36647, y: -50.256683}
-        - {x: 51.36647, y: 49.743317}
-        - {x: 50.36647, y: 50.743317}
-    - name: Train surfer 4_3
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Train surfer 4_3
       rect:
         serializedVersion: 2
         x: 894
@@ -101,28 +198,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 249.37387, y: -294.18497}
-        - {x: 249.37387, y: 295.81503}
-        - {x: 248.37387, y: 296.81503}
-        - {x: 247.37387, y: 300.81503}
-        - {x: 239.37387, y: 308.81503}
-        - {x: -237.62613, y: 308.81503}
-        - {x: -245.62613, y: 301.81503}
-        - {x: -246.62613, y: 298.81503}
-        - {x: -246.62613, y: 294.81503}
-        - {x: -247.62613, y: 293.81503}
-        - {x: -247.62613, y: 141.81503}
-        - {x: -246.62613, y: 140.81503}
-        - {x: -246.62613, y: -296.18497}
-        - {x: -244.62613, y: -301.18497}
-        - {x: -239.62613, y: -306.18497}
-        - {x: -236.62613, y: -307.18497}
-        - {x: 238.37387, y: -307.18497}
-        - {x: 241.37387, y: -306.18497}
-        - {x: 247.37387, y: -299.18497}
-        - {x: 248.37387, y: -295.18497}
-    - name: Train surfer 4_4
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Train surfer 4_4
       rect:
         serializedVersion: 2
         x: 3532
@@ -132,15 +219,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -48.645935, y: 51.86447}
-        - {x: -49.645935, y: 50.86447}
-        - {x: -49.645935, y: -44.13553}
-        - {x: -43.645935, y: -49.13553}
-        - {x: 47.354065, y: -49.13553}
-        - {x: 50.354065, y: -44.13553}
-        - {x: 50.354065, y: 51.86447}
-    - name: Train surfer 4_5
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Train surfer 4_5
       rect:
         serializedVersion: 2
         x: 2105
@@ -150,16 +240,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 28.516785, y: 82.87438}
-        - {x: -56.483215, y: 82.87438}
-        - {x: -84.483215, y: 70.87438}
-        - {x: -84.483215, y: -79.12562}
-        - {x: 78.516785, y: -79.12562}
-        - {x: 84.516785, y: -71.12562}
-        - {x: 84.516785, y: 29.874382}
-        - {x: 52.516785, y: 76.87438}
-    - name: Train surfer 4_6
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Train surfer 4_6
       rect:
         serializedVersion: 2
         x: 3100
@@ -169,17 +261,18 @@ TextureImporter:
       alignment: 9
       pivot: {x: 0.7270706, y: 0.6061176}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -68.840515, y: 60.518135}
-        - {x: -128.84052, y: 60.518135}
-        - {x: -128.84052, y: -27.481865}
-        - {x: -123.840515, y: -83.481865}
-        - {x: -111.840515, y: -92.481865}
-        - {x: 42.159485, y: -92.481865}
-        - {x: 50.159485, y: -88.481865}
-        - {x: 50.159485, y: 19.518135}
-        - {x: 38.159485, y: 48.518135}
-    - name: Train surfer 4_7
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Train surfer 4_7
       rect:
         serializedVersion: 2
         x: 61
@@ -189,17 +282,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -27.053907, y: 28.112732}
-        - {x: -28.053907, y: 22.112732}
-        - {x: -28.053907, y: -23.887268}
-        - {x: -20.053907, y: -27.887268}
-        - {x: 13.946093, y: -27.887268}
-        - {x: 18.946093, y: -26.887268}
-        - {x: 28.946093, y: -23.887268}
-        - {x: 28.946093, y: 26.112732}
-        - {x: 23.946093, y: 28.112732}
-    - name: Train surfer 4_8
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Train surfer 4_8
       rect:
         serializedVersion: 2
         x: 129
@@ -209,14 +303,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -2.835312, y: 38.86743}
-        - {x: -21.835312, y: -9.132568}
-        - {x: -21.835312, y: -43.13257}
-        - {x: 13.164688, y: -43.13257}
-        - {x: 33.16469, y: -9.132568}
-        - {x: 33.16469, y: 38.86743}
-    - name: Train surfer 4_9
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Train surfer 4_9
       rect:
         serializedVersion: 2
         x: 11
@@ -226,16 +324,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -63.714638, y: 25.538025}
-        - {x: -71.71464, y: 19.538025}
-        - {x: -71.71464, y: -14.461975}
-        - {x: -70.71464, y: -22.461975}
-        - {x: 69.28536, y: -22.461975}
-        - {x: 72.28536, y: -14.461975}
-        - {x: 72.28536, y: 20.538025}
-        - {x: 67.28536, y: 25.538025}
-    - name: Train surfer 4_10
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23305410000000000800000000000000
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Train surfer 4_10
       rect:
         serializedVersion: 2
         x: 2676
@@ -245,15 +345,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 130.10236, y: 24.5}
-        - {x: -117.897644, y: 24.5}
-        - {x: -117.897644, y: -28.5}
-        - {x: -116.897644, y: -29.5}
-        - {x: 126.102356, y: -29.5}
-        - {x: 135.10236, y: -25.5}
-        - {x: 135.10236, y: 17.5}
-    - name: Train surfer 4_11
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43305410000000000800000000000000
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Train surfer 4_11
       rect:
         serializedVersion: 2
         x: 3811
@@ -263,13 +366,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -24.499084, y: 21.759644}
-        - {x: -24.499084, y: -31.240356}
-        - {x: 26.500916, y: -31.240356}
-        - {x: 29.500916, y: -30.240356}
-        - {x: 29.500916, y: 21.759644}
-    - name: Train surfer 4_12
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63305410000000000800000000000000
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Train surfer 4_12
       rect:
         serializedVersion: 2
         x: 1141
@@ -279,15 +387,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 84.41788, y: 61.686447}
-        - {x: -83.58212, y: 61.686447}
-        - {x: -83.58212, y: -54.313553}
-        - {x: -74.58212, y: -60.313553}
-        - {x: 78.41788, y: -60.313553}
-        - {x: 86.41788, y: -52.313553}
-        - {x: 86.41788, y: 56.686447}
-    - name: Train surfer 4_13
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83305410000000000800000000000000
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Train surfer 4_13
       rect:
         serializedVersion: 2
         x: 1143
@@ -297,15 +408,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -83.57568, y: 60.748764}
-        - {x: -83.57568, y: -55.251236}
-        - {x: -76.57568, y: -59.251236}
-        - {x: 78.42432, y: -59.251236}
-        - {x: 84.42432, y: -52.251236}
-        - {x: 84.42432, y: 53.748764}
-        - {x: 76.42432, y: 60.748764}
-    - name: Train surfer 4_14
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3305410000000000800000000000000
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Train surfer 4_14
       rect:
         serializedVersion: 2
         x: 286
@@ -315,14 +429,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -84.08062, y: 59.56627}
-        - {x: -84.08062, y: -59.43373}
-        - {x: 77.91938, y: -59.43373}
-        - {x: 84.91938, y: -50.43373}
-        - {x: 84.91938, y: 51.56627}
-        - {x: 79.91938, y: 59.56627}
-    - name: Train surfer 4_15
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3305410000000000800000000000000
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Train surfer 4_15
       rect:
         serializedVersion: 2
         x: 282
@@ -332,16 +450,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -76.093475, y: 61.926804}
-        - {x: -84.093475, y: 53.926804}
-        - {x: -84.093475, y: -54.073196}
-        - {x: -74.093475, y: -60.073196}
-        - {x: 76.906525, y: -60.073196}
-        - {x: 84.906525, y: -54.073196}
-        - {x: 84.906525, y: 55.926804}
-        - {x: 83.906525, y: 61.926804}
-    - name: Train surfer 4_16
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3305410000000000800000000000000
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Train surfer 4_16
       rect:
         serializedVersion: 2
         x: 3491
@@ -351,12 +471,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -55.52771, y: 53.48462}
-        - {x: -55.52771, y: -52.51538}
-        - {x: 57.47229, y: -52.51538}
-        - {x: 57.47229, y: 53.48462}
-    - name: Train surfer 4_17
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04305410000000000800000000000000
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Train surfer 4_17
       rect:
         serializedVersion: 2
         x: 2999
@@ -366,16 +492,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 49.390686, y: 53.744263}
-        - {x: -46.609314, y: 53.744263}
-        - {x: -53.609314, y: 47.744263}
-        - {x: -53.609314, y: -47.255737}
-        - {x: -46.609314, y: -54.255737}
-        - {x: 45.390686, y: -54.255737}
-        - {x: 54.390686, y: -49.255737}
-        - {x: 54.390686, y: 46.744263}
-    - name: Train surfer 4_18
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24305410000000000800000000000000
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Train surfer 4_18
       rect:
         serializedVersion: 2
         x: 2895
@@ -385,19 +513,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 142.05634, y: 39.002457}
-        - {x: 141.05634, y: 45.002457}
-        - {x: 132.05634, y: 52.002457}
-        - {x: -134.94366, y: 52.002457}
-        - {x: -141.94366, y: 44.002457}
-        - {x: -141.94366, y: -45.997543}
-        - {x: -130.94366, y: -51.997543}
-        - {x: 130.05634, y: -51.997543}
-        - {x: 135.05634, y: -49.997543}
-        - {x: 140.05634, y: -44.997543}
-        - {x: 142.05634, y: -39.997543}
-    - name: Train surfer 4_0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44305410000000000800000000000000
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Train surfer 4_0
       rect:
         serializedVersion: 2
         x: 657
@@ -407,17 +534,47 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -31.637985, y: 46.57019}
-        - {x: -46.637985, y: 28.57019}
-        - {x: -46.637985, y: -30.42981}
-        - {x: -42.637985, y: -46.42981}
-        - {x: 41.362015, y: -46.42981}
-        - {x: 47.362015, y: -26.42981}
-        - {x: 47.362015, y: 27.57019}
-        - {x: 29.362015, y: 46.57019}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
-  spritePackingTag: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Train surfer 4_0: 21300000
+      Train surfer 4_10: 21300020
+      Train surfer 4_11: 21300022
+      Train surfer 4_12: 21300024
+      Train surfer 4_13: 21300026
+      Train surfer 4_14: 21300028
+      Train surfer 4_15: 21300030
+      Train surfer 4_16: 21300032
+      Train surfer 4_17: 21300034
+      Train surfer 4_18: 21300036
+      Train surfer 4_2: 21300004
+      Train surfer 4_3: 21300006
+      Train surfer 4_4: 21300008
+      Train surfer 4_5: 21300010
+      Train surfer 4_6: 21300012
+      Train surfer 4_7: 21300014
+      Train surfer 4_8: 21300016
+      Train surfer 4_9: 21300018
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 

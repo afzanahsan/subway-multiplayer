@@ -8,7 +8,7 @@ public class Shipmuving : MonoBehaviour {
 	void Start () {
         //   savetranform = transform.position;
         alowmuving = true;
-        con = transform.FindChild("tauchetdi").gameObject;
+        con = transform.Find("tauchetdi").gameObject;
     }
     bool alowmuving;
 	// Update is called once per frame

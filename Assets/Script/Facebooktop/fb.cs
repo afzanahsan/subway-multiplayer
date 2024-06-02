@@ -142,7 +142,7 @@ public class fb : MonoBehaviour
             amin.SetBool("open", true);
             yield return new WaitForSeconds(1.5f);
             amin.SetBool("open", false);
-            amin.Stop();
+            //amin.Stop();
             amin.enabled = false;
         }
         else {
@@ -500,7 +500,7 @@ public class fb : MonoBehaviour
             amin.SetBool("open", true);
             yield return new WaitForSeconds(1.5f);
             amin.SetBool("open", false);
-            amin.Stop();
+            //amin.Stop();
             amin.enabled = false;
         }
         else {

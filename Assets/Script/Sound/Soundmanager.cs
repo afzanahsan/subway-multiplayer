@@ -16,15 +16,15 @@ public class Soundmanager : MonoBehaviour {
     // Use this for initialization
     void Start () {
         soundmanager = this;
-        backgrod = gameObject.transform.FindChild("backgroud").gameObject;
-        police = gameObject.transform.FindChild("police").gameObject;
-        slide = gameObject.transform.FindChild("slide").gameObject;
-        coin = gameObject.transform.FindChild("coin").gameObject;
-        rung = gameObject.transform.FindChild("rung").gameObject;
-        Getitem = gameObject.transform.FindChild("Getitem").gameObject;
-        UIclick = gameObject.transform.FindChild("Uiclick").gameObject;
-        PlayAgian = gameObject.transform.FindChild("PlayAgian").gameObject;
-        newhighscore = gameObject.transform.FindChild("newhighscore").gameObject;
+        backgrod = gameObject.transform.Find("backgroud").gameObject;
+        police = gameObject.transform.Find("police").gameObject;
+        slide = gameObject.transform.Find("slide").gameObject;
+        coin = gameObject.transform.Find("coin").gameObject;
+        rung = gameObject.transform.Find("rung").gameObject;
+        Getitem = gameObject.transform.Find("Getitem").gameObject;
+        UIclick = gameObject.transform.Find("Uiclick").gameObject;
+        PlayAgian = gameObject.transform.Find("PlayAgian").gameObject;
+        newhighscore = gameObject.transform.Find("newhighscore").gameObject;
         backgrod.GetComponent<AudioSource>().Pause();
     }
     public void PlaynewHighscore()

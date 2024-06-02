@@ -1,58 +1,141 @@
 fileFormatVersion: 2
 guid: bd97116cad978144f85c35d50b454939
-timeCreated: 1472133603
-licenseType: Pro
 TextureImporter:
-  fileIDToRecycleName:
-    21300000: allitemui_0
-    21300002: allitemui_1
-    21300004: allitemui_2
-    21300006: allitemui_3
-    21300008: allitemui_4
-    21300010: allitemui_20
-    21300012: allitemui_21
-    21300014: allitemui_5
-    21300016: allitemui_6
-    21300018: allitemui_22
-    21300020: allitemui_23
-    21300022: allitemui_24
-    21300024: allitemui_25
-    21300026: allitemui_26
-    21300028: allitemui_27
-    21300030: allitemui_28
-    21300032: allitemui_29
-    21300034: allitemui_30
-    21300036: allitemui_31
-    21300038: allitemui_32
-    21300040: allitemui_33
-    21300042: allitemui_34
-    21300044: allitemui_35
-    21300046: allitemui_36
-    21300048: allitemui_37
-    21300050: allitemui_38
-    21300052: allitemui_39
-    21300054: allitemui_40
-    21300056: allitemui_41
-    21300058: allitemui_42
-    21300060: allitemui_43
-    21300062: allitemui_44
-    21300064: allitemui_45
-    21300066: allitemui_46
-    21300068: allitemui_47
-    21300070: allitemui_7
-    21300072: allitemui_8
-    21300074: allitemui_9
-    21300076: allitemui_10
-    21300078: allitemui_11
-    21300080: allitemui_12
-  serializedVersion: 2
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: allitemui_0
+  - first:
+      213: 21300002
+    second: allitemui_1
+  - first:
+      213: 21300004
+    second: allitemui_2
+  - first:
+      213: 21300006
+    second: allitemui_3
+  - first:
+      213: 21300008
+    second: allitemui_4
+  - first:
+      213: 21300010
+    second: allitemui_20
+  - first:
+      213: 21300012
+    second: allitemui_21
+  - first:
+      213: 21300014
+    second: allitemui_5
+  - first:
+      213: 21300016
+    second: allitemui_6
+  - first:
+      213: 21300018
+    second: allitemui_22
+  - first:
+      213: 21300020
+    second: allitemui_23
+  - first:
+      213: 21300022
+    second: allitemui_24
+  - first:
+      213: 21300024
+    second: allitemui_25
+  - first:
+      213: 21300026
+    second: allitemui_26
+  - first:
+      213: 21300028
+    second: allitemui_27
+  - first:
+      213: 21300030
+    second: allitemui_28
+  - first:
+      213: 21300032
+    second: allitemui_29
+  - first:
+      213: 21300034
+    second: allitemui_30
+  - first:
+      213: 21300036
+    second: allitemui_31
+  - first:
+      213: 21300038
+    second: allitemui_32
+  - first:
+      213: 21300040
+    second: allitemui_33
+  - first:
+      213: 21300042
+    second: allitemui_34
+  - first:
+      213: 21300044
+    second: allitemui_35
+  - first:
+      213: 21300046
+    second: allitemui_36
+  - first:
+      213: 21300048
+    second: allitemui_37
+  - first:
+      213: 21300050
+    second: allitemui_38
+  - first:
+      213: 21300052
+    second: allitemui_39
+  - first:
+      213: 21300054
+    second: allitemui_40
+  - first:
+      213: 21300056
+    second: allitemui_41
+  - first:
+      213: 21300058
+    second: allitemui_42
+  - first:
+      213: 21300060
+    second: allitemui_43
+  - first:
+      213: 21300062
+    second: allitemui_44
+  - first:
+      213: 21300064
+    second: allitemui_45
+  - first:
+      213: 21300066
+    second: allitemui_46
+  - first:
+      213: 21300068
+    second: allitemui_47
+  - first:
+      213: 21300070
+    second: allitemui_7
+  - first:
+      213: 21300072
+    second: allitemui_8
+  - first:
+      213: 21300074
+    second: allitemui_9
+  - first:
+      213: 21300076
+    second: allitemui_10
+  - first:
+      213: 21300078
+    second: allitemui_11
+  - first:
+      213: 21300080
+    second: allitemui_12
+  externalObjects: {}
+  serializedVersion: 13
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
+    sRGBTexture: 1
     linearTexture: 0
-    correctGamma: 0
     fadeOut: 0
     borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
     mipMapFadeDistanceStart: 1
     mipMapFadeDistanceEnd: 3
   bumpmap:
@@ -60,43 +143,97 @@ TextureImporter:
     externalNormalMap: 0
     heightScale: 0.25
     normalMapFilter: 0
+    flipGreenChannel: 0
   isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
   grayScaleToAlpha: 0
-  generateCubemap: 0
+  generateCubemap: 6
   cubemapConvolution: 0
-  cubemapConvolutionSteps: 7
-  cubemapConvolutionExponent: 1.5
   seamlessCubemap: 0
   textureFormat: -3
   maxTextureSize: 2048
   textureSettings:
+    serializedVersion: 2
     filterMode: 1
     aniso: 16
-    mipBias: -1
-    wrapMode: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
   nPOTScale: 0
   lightmap: 0
-  rGBM: 0
   compressionQuality: 50
-  allowsAlphaSplitting: 0
   spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
   alphaIsTransparency: 1
-  textureType: 5
-  buildTargetSettings:
-  - buildTarget: Android
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
     maxTextureSize: 2048
-    textureFormat: 12
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
     compressionQuality: 50
+    crunchedCompression: 0
     allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 12
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
+    serializedVersion: 2
     sprites:
-    - name: allitemui_0
+    - serializedVersion: 2
+      name: allitemui_0
       rect:
         serializedVersion: 2
         x: 27
@@ -106,12 +243,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -33.5, y: 34}
-        - {x: -33.5, y: -34}
-        - {x: 33.5, y: -34}
-        - {x: 33.5, y: 34}
-    - name: allitemui_1
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allitemui_1
       rect:
         serializedVersion: 2
         x: 120
@@ -121,12 +264,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -32.5, y: 32}
-        - {x: -32.5, y: -32}
-        - {x: 32.5, y: -32}
-        - {x: 32.5, y: 32}
-    - name: allitemui_2
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allitemui_2
       rect:
         serializedVersion: 2
         x: 213
@@ -136,12 +285,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -33, y: 33}
-        - {x: -33, y: -33}
-        - {x: 33, y: -33}
-        - {x: 33, y: 33}
-    - name: allitemui_3
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allitemui_3
       rect:
         serializedVersion: 2
         x: 311
@@ -151,14 +306,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -25, y: 26}
-        - {x: -26, y: 25}
-        - {x: -26, y: -25}
-        - {x: -25, y: -26}
-        - {x: 26, y: -26}
-        - {x: 26, y: 26}
-    - name: allitemui_4
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allitemui_4
       rect:
         serializedVersion: 2
         x: 396
@@ -168,14 +327,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -33.5, y: 33}
-        - {x: -33.5, y: -33}
-        - {x: 31.5, y: -33}
-        - {x: 33.5, y: -31}
-        - {x: 33.5, y: 32}
-        - {x: 31.5, y: 33}
-    - name: allitemui_20
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allitemui_20
       rect:
         serializedVersion: 2
         x: 794
@@ -185,14 +348,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -103, y: 28}
-        - {x: -103, y: -23}
-        - {x: 102, y: -23}
-        - {x: 103, y: -16}
-        - {x: 103, y: 24}
-        - {x: 95, y: 28}
-    - name: allitemui_21
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allitemui_21
       rect:
         serializedVersion: 2
         x: 24
@@ -202,35 +369,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 39.5, y: -152}
-        - {x: 40.5, y: -151}
-        - {x: 113.5, y: -150}
-        - {x: 117.5, y: -143}
-        - {x: 119.5, y: -131}
-        - {x: 124.5, y: -113}
-        - {x: 136.5, y: -69}
-        - {x: 141.5, y: -51}
-        - {x: 150.5, y: -18}
-        - {x: 158.5, y: 11}
-        - {x: 169.5, y: 51}
-        - {x: 173.5, y: 62}
-        - {x: 177.5, y: 79}
-        - {x: 177.5, y: 93}
-        - {x: 90.5, y: 125}
-        - {x: 54.5, y: 139}
-        - {x: 36.5, y: 140}
-        - {x: -143.5, y: 155}
-        - {x: -175.5, y: 155}
-        - {x: -175.5, y: 62}
-        - {x: -176.5, y: 61}
-        - {x: -176.5, y: -59}
-        - {x: -154.5, y: -103}
-        - {x: -154.5, y: -105}
-        - {x: -138.5, y: -138}
-        - {x: -129.5, y: -155}
-        - {x: -50.5, y: -155}
-    - name: allitemui_22
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allitemui_22
       rect:
         serializedVersion: 2
         x: 550
@@ -240,16 +390,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 174.5, y: 40.5}
-        - {x: -173.5, y: 40.5}
-        - {x: -179.5, y: 34.5}
-        - {x: -179.5, y: -33.5}
-        - {x: -173.5, y: -40.5}
-        - {x: 173.5, y: -40.5}
-        - {x: 179.5, y: -33.5}
-        - {x: 179.5, y: 34.5}
-    - name: allitemui_23
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23305410000000000800000000000000
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allitemui_23
       rect:
         serializedVersion: 2
         x: 944
@@ -259,14 +411,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -27, y: 26}
-        - {x: -28, y: 25}
-        - {x: -28, y: -26}
-        - {x: 28, y: -26}
-        - {x: 28, y: 23}
-        - {x: 24, y: 26}
-    - name: allitemui_24
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43305410000000000800000000000000
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allitemui_24
       rect:
         serializedVersion: 2
         x: 948
@@ -276,12 +432,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -26, y: 27}
-        - {x: -26, y: -27}
-        - {x: 26, y: -27}
-        - {x: 26, y: 27}
-    - name: allitemui_25
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63305410000000000800000000000000
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allitemui_25
       rect:
         serializedVersion: 2
         x: 550
@@ -291,12 +453,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -179.5, y: 40.5}
-        - {x: -179.5, y: -40.5}
-        - {x: 179.5, y: -40.5}
-        - {x: 179.5, y: 40.5}
-    - name: allitemui_26
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83305410000000000800000000000000
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allitemui_26
       rect:
         serializedVersion: 2
         x: 942
@@ -306,12 +474,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -27, y: 27}
-        - {x: -27, y: -26}
-        - {x: 27, y: -26}
-        - {x: 27, y: 27}
-    - name: allitemui_27
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3305410000000000800000000000000
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allitemui_27
       rect:
         serializedVersion: 2
         x: 4
@@ -321,14 +495,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -38, y: 41}
-        - {x: -42, y: 36}
-        - {x: -42, y: -40}
-        - {x: -39, y: -41}
-        - {x: 42, y: -41}
-        - {x: 42, y: 41}
-    - name: allitemui_28
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3305410000000000800000000000000
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allitemui_28
       rect:
         serializedVersion: 2
         x: 111
@@ -338,14 +516,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -39, y: 41}
-        - {x: -41, y: 37}
-        - {x: -41, y: -41}
-        - {x: 41, y: -41}
-        - {x: 41, y: 39}
-        - {x: 37, y: 41}
-    - name: allitemui_29
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3305410000000000800000000000000
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allitemui_29
       rect:
         serializedVersion: 2
         x: 448
@@ -355,16 +537,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 60, y: 45}
-        - {x: -59, y: 45}
-        - {x: -62, y: 40}
-        - {x: -62, y: -40}
-        - {x: -58, y: -45}
-        - {x: 59, y: -45}
-        - {x: 62, y: -43}
-        - {x: 62, y: 43}
-    - name: allitemui_30
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04305410000000000800000000000000
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allitemui_30
       rect:
         serializedVersion: 2
         x: 584
@@ -374,13 +558,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -62, y: 45}
-        - {x: -62, y: -45}
-        - {x: 58, y: -45}
-        - {x: 62, y: -44}
-        - {x: 62, y: 45}
-    - name: allitemui_31
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24305410000000000800000000000000
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allitemui_31
       rect:
         serializedVersion: 2
         x: 718
@@ -390,16 +579,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -125, y: 45}
-        - {x: -130, y: 42}
-        - {x: -130, y: -39}
-        - {x: -124, y: -45}
-        - {x: 126, y: -45}
-        - {x: 130, y: -39}
-        - {x: 130, y: 39}
-        - {x: 126, y: 45}
-    - name: allitemui_32
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44305410000000000800000000000000
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allitemui_32
       rect:
         serializedVersion: 2
         x: 240
@@ -410,7 +601,17 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: allitemui_33
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64305410000000000800000000000000
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allitemui_33
       rect:
         serializedVersion: 2
         x: 249
@@ -420,22 +621,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 151.5, y: 144.5}
-        - {x: 149.5, y: 146.5}
-        - {x: -120.5, y: 146.5}
-        - {x: -120.5, y: 148.5}
-        - {x: -132.5, y: 148.5}
-        - {x: -132.5, y: 146.5}
-        - {x: -143.5, y: 146.5}
-        - {x: -148.5, y: 142.5}
-        - {x: -148.5, y: -144.5}
-        - {x: -144.5, y: -148.5}
-        - {x: 149.5, y: -148.5}
-        - {x: 153.5, y: -146.5}
-        - {x: 153.5, y: 143.5}
-        - {x: 152.5, y: 144.5}
-    - name: allitemui_34
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84305410000000000800000000000000
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allitemui_34
       rect:
         serializedVersion: 2
         x: 6
@@ -445,14 +642,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -41, y: 41}
-        - {x: -41, y: -41}
-        - {x: 38, y: -41}
-        - {x: 41, y: -38}
-        - {x: 41, y: 37}
-        - {x: 39, y: 41}
-    - name: allitemui_35
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4305410000000000800000000000000
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allitemui_35
       rect:
         serializedVersion: 2
         x: 244
@@ -463,7 +664,17 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: allitemui_36
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4305410000000000800000000000000
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allitemui_36
       rect:
         serializedVersion: 2
         x: 830
@@ -473,13 +684,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -31.5, y: 31}
-        - {x: -31.5, y: -31}
-        - {x: 32.5, y: -31}
-        - {x: 32.5, y: 27}
-        - {x: 28.5, y: 31}
-    - name: allitemui_37
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4305410000000000800000000000000
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allitemui_37
       rect:
         serializedVersion: 2
         x: 902
@@ -489,14 +705,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -32.5, y: 31.5}
-        - {x: -32.5, y: -31.5}
-        - {x: 30.5, y: -31.5}
-        - {x: 32.5, y: -29.5}
-        - {x: 32.5, y: 27.5}
-        - {x: 27.5, y: 31.5}
-    - name: allitemui_38
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05305410000000000800000000000000
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allitemui_38
       rect:
         serializedVersion: 2
         x: 111
@@ -506,14 +726,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 35, y: 39}
-        - {x: -41, y: 39}
-        - {x: -41, y: -40}
-        - {x: 36, y: -40}
-        - {x: 39, y: -37}
-        - {x: 39, y: 36}
-    - name: allitemui_39
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25305410000000000800000000000000
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allitemui_39
       rect:
         serializedVersion: 2
         x: 734
@@ -524,7 +748,17 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: allitemui_40
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45305410000000000800000000000000
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allitemui_40
       rect:
         serializedVersion: 2
         x: 76
@@ -535,7 +769,17 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: allitemui_41
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65305410000000000800000000000000
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allitemui_41
       rect:
         serializedVersion: 2
         x: 10
@@ -545,14 +789,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -38, y: 39}
-        - {x: -39, y: 38}
-        - {x: -39, y: -38}
-        - {x: -38, y: -39}
-        - {x: 39, y: -39}
-        - {x: 39, y: 39}
-    - name: allitemui_42
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85305410000000000800000000000000
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allitemui_42
       rect:
         serializedVersion: 2
         x: 112
@@ -562,12 +810,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -39, y: 38.5}
-        - {x: -39, y: -38.5}
-        - {x: 39, y: -38.5}
-        - {x: 39, y: 38.5}
-    - name: allitemui_43
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5305410000000000800000000000000
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allitemui_43
       rect:
         serializedVersion: 2
         x: 612
@@ -577,15 +831,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 202, y: 42.5}
-        - {x: -206, y: 42.5}
-        - {x: -206, y: -41.5}
-        - {x: -203, y: -42.5}
-        - {x: 202, y: -42.5}
-        - {x: 206, y: -39.5}
-        - {x: 206, y: 38.5}
-    - name: allitemui_44
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5305410000000000800000000000000
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allitemui_44
       rect:
         serializedVersion: 2
         x: 18
@@ -595,15 +852,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -37, y: 28}
-        - {x: -38, y: 27}
-        - {x: -38, y: -27}
-        - {x: -37, y: -28}
-        - {x: 37, y: -28}
-        - {x: 38, y: -27}
-        - {x: 38, y: 28}
-    - name: allitemui_45
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5305410000000000800000000000000
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allitemui_45
       rect:
         serializedVersion: 2
         x: 161
@@ -613,16 +873,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -15.5, y: 23}
-        - {x: -23.5, y: 17}
-        - {x: -23.5, y: -15}
-        - {x: -18.5, y: -23}
-        - {x: 22.5, y: -23}
-        - {x: 23.5, y: -20}
-        - {x: 23.5, y: 21}
-        - {x: 21.5, y: 23}
-    - name: allitemui_46
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06305410000000000800000000000000
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allitemui_46
       rect:
         serializedVersion: 2
         x: 588
@@ -632,18 +894,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 206, y: 74.5}
-        - {x: 202, y: 78.5}
-        - {x: -203, y: 78.5}
-        - {x: -206, y: 75.5}
-        - {x: -206, y: -75.5}
-        - {x: -202, y: -78.5}
-        - {x: 202, y: -78.5}
-        - {x: 205, y: -75.5}
-        - {x: 205, y: -74.5}
-        - {x: 206, y: -73.5}
-    - name: allitemui_47
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26305410000000000800000000000000
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allitemui_47
       rect:
         serializedVersion: 2
         x: 15
@@ -653,15 +915,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -8, y: 25.5}
-        - {x: -20, y: 3.5}
-        - {x: -20, y: -25.5}
-        - {x: 9, y: -25.5}
-        - {x: 20, y: -23.5}
-        - {x: 20, y: 23.5}
-        - {x: 15, y: 25.5}
-    - name: allitemui_5
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46305410000000000800000000000000
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allitemui_5
       rect:
         serializedVersion: 2
         x: 548
@@ -672,7 +937,17 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: allitemui_6
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allitemui_6
       rect:
         serializedVersion: 2
         x: 273
@@ -682,12 +957,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -126, y: 18.5}
-        - {x: -126, y: -14.5}
-        - {x: 125, y: -14.5}
-        - {x: 125, y: 18.5}
-    - name: allitemui_7
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allitemui_7
       rect:
         serializedVersion: 2
         x: 11
@@ -697,16 +978,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 107, y: 43}
-        - {x: -110, y: 43}
-        - {x: -114, y: 40}
-        - {x: -114, y: -37}
-        - {x: -109, y: -42}
-        - {x: 111, y: -42}
-        - {x: 112, y: -34}
-        - {x: 112, y: 41}
-    - name: allitemui_8
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66305410000000000800000000000000
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allitemui_8
       rect:
         serializedVersion: 2
         x: 580
@@ -716,18 +999,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 19.5, y: 12}
-        - {x: -50.5, y: 12}
-        - {x: -54.5, y: 7}
-        - {x: -55.5, y: -3}
-        - {x: -55.5, y: -8}
-        - {x: -51.5, y: -10}
-        - {x: -41.5, y: -13}
-        - {x: 54.5, y: -13}
-        - {x: 54.5, y: 8}
-        - {x: 52.5, y: 10}
-    - name: allitemui_9
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86305410000000000800000000000000
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allitemui_9
       rect:
         serializedVersion: 2
         x: 442
@@ -737,16 +1020,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -25, y: 29}
-        - {x: -28, y: 27}
-        - {x: -28, y: 21}
-        - {x: 22, y: -28}
-        - {x: 29, y: -28}
-        - {x: 30, y: -26}
-        - {x: 30, y: -19}
-        - {x: -18, y: 29}
-    - name: allitemui_10
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6305410000000000800000000000000
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allitemui_10
       rect:
         serializedVersion: 2
         x: 58
@@ -756,16 +1041,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -58, y: 23}
-        - {x: -80, y: 23}
-        - {x: -80, y: -19}
-        - {x: -78, y: -21}
-        - {x: 81, y: -21}
-        - {x: 83, y: -19}
-        - {x: 83, y: 17}
-        - {x: 81, y: 19}
-    - name: allitemui_11
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6305410000000000800000000000000
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allitemui_11
       rect:
         serializedVersion: 2
         x: 233
@@ -775,16 +1062,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -18.5, y: 19}
-        - {x: -20.5, y: 17}
-        - {x: -20.5, y: -19}
-        - {x: -18.5, y: -21}
-        - {x: 18.5, y: -21}
-        - {x: 24.5, y: -15}
-        - {x: 24.5, y: 13}
-        - {x: 18.5, y: 19}
-    - name: allitemui_12
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6305410000000000800000000000000
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allitemui_12
       rect:
         serializedVersion: 2
         x: 295
@@ -794,15 +1083,70 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -17.5, y: 22.5}
-        - {x: -22.5, y: 17.5}
-        - {x: -22.5, y: -15.5}
-        - {x: -19.5, y: -22.5}
-        - {x: 22.5, y: -22.5}
-        - {x: 22.5, y: 22.5}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07305410000000000800000000000000
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
-  spritePackingTag: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      allitemui_0: 21300000
+      allitemui_1: 21300002
+      allitemui_10: 21300076
+      allitemui_11: 21300078
+      allitemui_12: 21300080
+      allitemui_2: 21300004
+      allitemui_20: 21300010
+      allitemui_21: 21300012
+      allitemui_22: 21300018
+      allitemui_23: 21300020
+      allitemui_24: 21300022
+      allitemui_25: 21300024
+      allitemui_26: 21300026
+      allitemui_27: 21300028
+      allitemui_28: 21300030
+      allitemui_29: 21300032
+      allitemui_3: 21300006
+      allitemui_30: 21300034
+      allitemui_31: 21300036
+      allitemui_32: 21300038
+      allitemui_33: 21300040
+      allitemui_34: 21300042
+      allitemui_35: 21300044
+      allitemui_36: 21300046
+      allitemui_37: 21300048
+      allitemui_38: 21300050
+      allitemui_39: 21300052
+      allitemui_4: 21300008
+      allitemui_40: 21300054
+      allitemui_41: 21300056
+      allitemui_42: 21300058
+      allitemui_43: 21300060
+      allitemui_44: 21300062
+      allitemui_45: 21300064
+      allitemui_46: 21300066
+      allitemui_47: 21300068
+      allitemui_5: 21300014
+      allitemui_6: 21300016
+      allitemui_7: 21300070
+      allitemui_8: 21300072
+      allitemui_9: 21300074
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 

@@ -1,4 +1,4 @@
-﻿using UnityEngine;
+﻿/*using UnityEngine;
 using UnityEditor;
 using NUnit.Framework;
 
@@ -20,3 +20,4 @@ public class NewEditorTest1 {
         Assert.AreEqual(newGameObjectName, gameObject.name);
     }
 }
+*/

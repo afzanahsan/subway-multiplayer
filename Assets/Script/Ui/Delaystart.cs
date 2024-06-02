@@ -19,7 +19,7 @@ public class Delaystart : MonoBehaviour {
         if (delaysecons ==0)
         {
             delaysecons = 3;
-            GetComponent<Animator>().Stop();
+            GetComponent<Animator>().enabled = false;
             Time.timeScale = inthepanelpause.datatime;
             this.gameObject.SetActive(false);
         }

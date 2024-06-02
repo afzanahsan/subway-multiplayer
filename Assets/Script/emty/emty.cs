@@ -18,7 +18,7 @@ public class emty : MonoBehaviour {
         amin = gameObject.GetComponent<Animator>();
         isactac = false;
         isfolowplayer = false;
-        con = gameObject.transform.FindChild("police").gameObject;
+        con = gameObject.transform.Find("police").gameObject;
         die = 1;
     }
 

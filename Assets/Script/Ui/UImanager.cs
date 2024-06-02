@@ -1504,8 +1504,8 @@ public class UImanager : MonoBehaviour {
     void loadatherimg(Image img,int valuelv, int valueprice)
     {
 
-        jetpackslider = img.transform.FindChild("Slider").gameObject.GetComponent<Slider>();
-        gettx = img.transform.FindChild("txtseo").gameObject.GetComponent<Text>();
+        jetpackslider = img.transform.Find("Slider").gameObject.GetComponent<Slider>();
+        gettx = img.transform.Find("txtseo").gameObject.GetComponent<Text>();
         jetpackslider.value = valuelv;
         gettx.text = valueprice.ToString();
         txtkeyinshop.text = managerdata.manager.getkey().ToString();
@@ -1624,7 +1624,7 @@ public class UImanager : MonoBehaviour {
         cahe += Time.deltaTime;
         if (cahe >60)
         {
-            Caching.CleanCache();
+            Caching.ClearCache();
             cahe = 0;
         }
         if (Playermuving.player != null)

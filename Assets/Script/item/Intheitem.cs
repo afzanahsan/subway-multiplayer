@@ -6,7 +6,7 @@ public class Intheitem : MonoBehaviour {
 	// Use this for initialization
 	void Start () {
     //    Destroy(this.gameObject,20);
-        con = gameObject.transform.FindChild("conitem").gameObject;
+        con = gameObject.transform.Find("conitem").gameObject;
 	
 	}
 	

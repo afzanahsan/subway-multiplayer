@@ -47,7 +47,7 @@ public class Playermuving : MonoBehaviour
     void Start()
     {
         setTranformitem();
-        head = gameObject.transform.FindChild("head").gameObject;
+        head = gameObject.transform.Find("head").gameObject;
         rotationanimation = playermodol.transform.eulerAngles;
         posisonanimation = playermodol.transform.position;
         savethetranformcheckformuvingvoin = transform.position.z;
@@ -116,21 +116,21 @@ public class Playermuving : MonoBehaviour
                 switch (Allplayer[i].name)
                 {
                     case "nvchinh":
-                        playermodol = gameObject.transform.FindChild("nvchinh").gameObject;
+                        playermodol = gameObject.transform.Find("nvchinh").gameObject;
                         giayleft.transform.position = new Vector3(tagettranformgiayleft.position.x + 0.2f, tagettranformgiayleft.position.y, tagettranformgiayleft.position.z);
                         giayleft.transform.parent = tagettranformgiayleft;
                         giayrigh.transform.position = new Vector3(tagettranformgiayright.position.x + 0.2f, tagettranformgiayright.position.y, tagettranformgiayright.position.z);
                         giayrigh.transform.parent = tagettranformgiayright;
                         break;
                     case "nvgirl":
-                        playermodol = gameObject.transform.FindChild("nvgirl").gameObject;
+                        playermodol = gameObject.transform.Find("nvgirl").gameObject;
                         giayleft.transform.position = new Vector3(tagettranformgiayleftgirl.position.x+0.1f, tagettranformgiayleftgirl.position.y, tagettranformgiayleftgirl.position.z);
                         giayleft.transform.parent = tagettranformgiayleftgirl;
                         giayrigh.transform.position = new Vector3(tagettranformgiayrightgirl.position.x + 0.1f, tagettranformgiayrightgirl.position.y-0.03f, tagettranformgiayrightgirl.position.z);
                         giayrigh.transform.parent = tagettranformgiayrightgirl;
                         break;
                     case "nvgau":
-                        playermodol = gameObject.transform.FindChild("nvgau").gameObject;
+                        playermodol = gameObject.transform.Find("nvgau").gameObject;
                         giayleft.transform.position = new Vector3(tagettranformgiayleftgau.position.x+0.1f , tagettranformgiayleftgau.position.y, tagettranformgiayleftgau.position.z-0f);
                         giayleft.transform.eulerAngles = new Vector3(tagettranformgiayleftgau.eulerAngles.x, giayleft.transform.eulerAngles.y, giayleft.transform.eulerAngles.z+30);
                         giayleft.transform.parent = tagettranformgiayleftgau;

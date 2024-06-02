@@ -11,7 +11,7 @@ public class Chekdestroi : MonoBehaviour {
         alow = true;
         if (this.gameObject.tag == "coin")
         {
-            coin = gameObject.transform.FindChild("Coincon").gameObject;
+            coin = gameObject.transform.Find("Coincon").gameObject;
             StartCoroutine(timer());
         }
     }
