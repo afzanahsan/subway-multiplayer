@@ -316,7 +316,7 @@ public class Playermuving : MonoBehaviour
     }
   
     float coinmuving;
-public void Getscore(float value)
+    public void Getscore(float value)
     {
         UImanager.coinmuving = (int)((transform.position.z - savethetranformcheckformuvingvoin) * 3 * (0.3f + value) * (0.3f + value) * (0.3f + value)); // lưu điểm theo tọa độ
     }

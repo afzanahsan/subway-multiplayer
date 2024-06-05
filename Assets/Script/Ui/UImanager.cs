@@ -7,7 +7,8 @@ using System.Collections.Generic;
 /// class quản lý taonf bộ hệ thống menu Ui vật phẩm và dữ liệu
 /// </summary>
 public class UImanager : MonoBehaviour {
-    
+    public static UImanager instance;
+
     public GameObject showPlayeronlost;
    // public GameObject Evensystem;
     public Text cointxt;
@@ -77,6 +78,7 @@ public class UImanager : MonoBehaviour {
     {
         //yourcoinnow.transform.SetSiblingIndex(1);
         Application.targetFrameRate = frameRate;
+        instance = this;
     }
     void Start () {
         

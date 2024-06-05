@@ -1,7 +1,5 @@
 fileFormatVersion: 2
 guid: 1cb8ed3cbba15f0479fbae54e0a963df
-timeCreated: 1468643515
-licenseType: Free
 ModelImporter:
   serializedVersion: 19
   fileIDToRecycleName:
@@ -656,7 +654,7 @@ ModelImporter:
       firstFrame: 335.9
       lastFrame: 353.7
       wrapMode: 0
-      orientationOffsetY: -0.0975
+      orientationOffsetY: -1.2
       level: 0
       cycleOffset: 0
       loop: 0
@@ -677,7 +675,7 @@ ModelImporter:
       transformMask: []
       maskType: 0
       maskSource: {instanceID: 0}
-      additiveReferencePoseFrame: 0
+      additiveReferencePoseFrame: 88
     isReadable: 1
   meshes:
     lODScreenPercentages: []
@@ -1137,7 +1135,7 @@ ModelImporter:
         length: 0
         modified: 0
     skeleton:
-    - name: HumanoidRun(Clone)
+    - name: Run(Clone)
       position: {x: 0, y: 0, z: 0}
       rotation: {x: 0, y: 0, z: 0, w: 1}
       scale: {x: 1, y: 1, z: 1}
@@ -1269,7 +1267,7 @@ ModelImporter:
       transformModified: 1
     - name: LeftHandRing2
       position: {x: -0.043135457, y: -0.000020882291, z: -0.0022351781}
-      rotation: {x: -0.13446516, y: -0.026096366, z: 0.00873433, w: 0.99053615}
+      rotation: {x: -0.13446514, y: -0.026096364, z: 0.008734329, w: 0.9905361}
       scale: {x: 1, y: 1, z: 1}
       transformModified: 1
     - name: LeftHandRing3
@@ -1293,8 +1291,8 @@ ModelImporter:
       scale: {x: 1, y: 1, z: 1}
       transformModified: 1
     - name: Neck
-      position: {x: 1.22124516e-17, y: 0.2590093, z: -0.03241325}
-      rotation: {x: 0, y: 0.09460661, z: 0, w: 0.9955147}
+      position: {x: -0, y: 0.2590093, z: -0.032413255}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
       scale: {x: 1, y: 1, z: 1}
       transformModified: 1
     - name: Head
@@ -1434,7 +1432,7 @@ ModelImporter:
       transformModified: 1
     - name: RightForeArm
       position: {x: 0.25342825, y: 0.006011353, z: -0.016704524}
-      rotation: {x: 0.25265747, y: 0.0243273, z: -0.02638448, w: 0.96689004}
+      rotation: {x: 0.25265744, y: 0.024327299, z: -0.026384478, w: 0.96689}
       scale: {x: 1, y: 1, z: 1}
       transformModified: 1
     - name: RightHand
@@ -1459,7 +1457,7 @@ ModelImporter:
       transformModified: 1
     - name: RightHandMiddle1
       position: {x: 0.075647645, y: 0.0047914027, z: 0.011853182}
-      rotation: {x: -0.026879197, y: -0.00530479, z: -0.033220716, w: 0.9990725}
+      rotation: {x: -0.026879195, y: -0.0053047896, z: -0.033220712, w: 0.99907243}
       scale: {x: 1, y: 1, z: 1}
       transformModified: 1
     - name: RightHandMiddle2
@@ -1474,7 +1472,7 @@ ModelImporter:
       transformModified: 1
     - name: RightHandPinky1
       position: {x: 0.06680334, y: -0.0019941085, z: -0.030756146}
-      rotation: {x: -0.111875884, y: -0.25872955, z: 0.008801892, w: 0.9594089}
+      rotation: {x: -0.11187588, y: -0.25872952, z: 0.0088018915, w: 0.9594088}
       scale: {x: 1, y: 1, z: 1}
       transformModified: 1
     - name: RightHandPinky2
@@ -1509,7 +1507,7 @@ ModelImporter:
       transformModified: 1
     - name: RightHandThumb2
       position: {x: 0.016374, y: -0.00529, z: 0.02349136}
-      rotation: {x: -0.026062518, y: -0.096689574, z: -0.0036074182, w: 0.9949668}
+      rotation: {x: -0.026062516, y: -0.09668957, z: -0.003607418, w: 0.99496675}
       scale: {x: 1, y: 1, z: 1}
       transformModified: 1
     - name: RightHandThumb3
